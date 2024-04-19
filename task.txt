@@ -1,0 +1,58 @@
+Task: Generative AI Image Generation Assessment
+
+Objective:
+
+To assess candidates' proficiency in generative AI, Python programming, and working with deep learning frameworks such as PyTorch and TensorFlow.
+
+Task Description:
+
+You are required to generate a realistic human image using Google Colab, a cloud-based platform for Python programming and machine learning. This task will test your understanding of generative adversarial networks (GANs) and your ability to implement them using either PyTorch or TensorFlow.
+
+Instructions:
+
+Setup:
+
+Access Google Colab: Go to [colhttp://colab.research.google.comtthttps://colab.research.google.comnd sign in with your Google account.
+Create a new Python 3 notebook: Click on `File` > `New notebook` > `Python 3`.
+
+Import Libraries:
+
+Import necessary libraries such as TensorFlow or PyTorch, as well as any additional libraries required for image processing.
+
+Load Dataset:
+
+You can use pre-existing datasets like CelebA or download other human image datasets from reputable sources. Ensure that the dataset is properly preprocessed and loaded into your notebook.
+
+Model Implementation:
+
+Choose either PyTorch or TensorFlow to implement a generative adversarial network (GAN).
+Define the generator and discriminator architectures according to the selected framework.
+Train the GAN model using the loaded dataset. Experiment with hyperparameters to achieve better results.
+Monitor the training process by plotting relevant metrics such as generator and discriminator losses.
+
+Image Generation:
+
+After training the GAN model, generate a realistic human image using the trained generator network.
+Save the generated image and display it within the notebook.
+
+Documentation:
+
+Provide clear and concise documentation within the notebook, explaining your approach, design choices, and any challenges faced during implementation.
+Include comments in your code to enhance readability and understanding.
+
+Submission:
+
+Once you have completed the task, share the link to your Google Colab notebook with the evaluator for review.
+Ensure that the notebook is shared with the appropriate permissions to allow viewing.
+
+Evaluation Criteria:
+
+Quality of the generated human image.
+Correctness and efficiency of the implementation.
+Clarity of documentation and code readability.
+Demonstrated understanding of generative AI concepts and deep learning frameworks.
+
+Note:
+
+You are free to refer to online resources, documentation, and tutorials during the implementation process.
+Plagiarism will not be tolerated. Ensure that the code and documentation are your original work.
